@@ -1,7 +1,7 @@
 # DRL_Collaboration-and-Competition
 
 
-<div class="_main--content-container--ILkoI"><div><div class="index--container--2OwOl"><div class="index--atom--lmAIo layout--content--3Smmq"><div class="ltr"><div class="index-module--markdown--2MdcR ureact-markdown "><h2 id="the-environment">The Environment</h2>
+<div class="_main--content-container--ILkoI"><div><div class="index--container--2OwOl"><div class="index--atom--lmAIo layout--content--3Smmq"><div class="ltr"><div class="index-module--markdown--2MdcR ureact-markdown "><h1 id="the-environment">The Environment</h1>
 </div></div><span></span></div></div></div><div><div class="index--container--2OwOl"><div class="index--atom--lmAIo layout--content--3Smmq"><div class="ltr"><div class="index-module--markdown--2MdcR ureact-markdown "><p>For this project, I worked with the <a target="_blank" href="https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#tennis">Tennis</a> environment.  </p>
   
 </div></div><span></span></div></div></div><div><div class="index--container--2OwOl"><div class="index--atom--lmAIo layout--content--3Smmq"><div><a href="#" class="image-atom--image-atom--1XDdu"><div class="index--image-atom-content--YoZVu"><div class="index--image-and-annotations-container--1o6QP"><img src="https://s3.amazonaws.com/video.udacity-data.com/topher/2018/May/5af7955a_tennis/tennis.png" alt="Unity ML-Agents Tennis Environment" width="600px" class="index--image--1wh9w"></div><div class="index--caption--34paT"><div class="index-module--markdown--2MdcR ureact-markdown "><p>Unity ML-Agents Tennis Environment</p>
@@ -16,11 +16,10 @@
 <h2 id="note">Note</h2>
 <hr>
 <p>The project environment is similar to, but <strong>not identical to</strong> the Tennis environment on the <a target="_blank" href="https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md">Unity ML-Agents GitHub page</a>.  </p>
-<blockquote>
 </div></div><span></span></div></div></div></div>
 
 
-<div class="_main--content-container--ILkoI"><div><div class="index--container--2OwOl"><div class="index--atom--lmAIo layout--content--3Smmq"><div class="ltr"><div class="index-module--markdown--2MdcR ureact-markdown "><h2 id="the-environment">The Environment</h2>
+<div class="_main--content-container--ILkoI"><div><div class="index--container--2OwOl"><div class="index--atom--lmAIo layout--content--3Smmq"><div class="ltr"><div class="index-module--markdown--2MdcR ureact-markdown "><h1 id="the-environment">The Environment</h1>
 </div></div><span></span></div></div></div><div><div class="index--container--2OwOl"><div class="index--atom--lmAIo layout--content--3Smmq"><div class="ltr"><div class="index-module--markdown--2MdcR ureact-markdown "><p>Follow the instructions below to explore the environment on your own machine!  You will also learn how to use the Python API to control your agent.</p>
 <h2 id="step-1-activate-the-environment">Step 1: Activate the Environment</h2>
 <hr>
