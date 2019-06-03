@@ -19,7 +19,7 @@
 </div></div><span></span></div></div></div></div>
 
 
-<div class="_main--content-container--ILkoI"><div><div class="index--container--2OwOl"><div class="index--atom--lmAIo layout--content--3Smmq"><div class="ltr"><div class="index-module--markdown--2MdcR ureact-markdown "><h1 id="the-environment">The Environment</h1>
+<div class="_main--content-container--ILkoI"><div><div class="index--container--2OwOl"><div class="index--atom--lmAIo layout--content--3Smmq"><div class="ltr"><div class="index-module--markdown--2MdcR ureact-markdown "><h1 id="the-environment">Installation </h1>
 </div></div><span></span></div></div></div><div><div class="index--container--2OwOl"><div class="index--atom--lmAIo layout--content--3Smmq"><div class="ltr"><div class="index-module--markdown--2MdcR ureact-markdown "><p>Follow the instructions below to explore the environment on your own machine!  You will also learn how to use the Python API to control your agent.</p>
 <h2 id="step-1-activate-the-environment">Step 1: Activate the Environment</h2>
 <hr>
@@ -40,13 +40,15 @@
 <p>Then, place the file in the <code>p3_collab-compet/</code> folder in the DRLND GitHub repository, and unzip (or decompress) the file.</p>
 <p>(<em>For Windows users</em>) Check out <a target="_blank" href="https://support.microsoft.com/en-us/help/827218/how-to-determine-whether-a-computer-is-running-a-32-bit-version-or-64">this link</a> if you need help with determining if your computer is running a 32-bit version or 64-bit version of the Windows operating system.</p>
 <p>(<em>For AWS</em>) If you'd like to train the agent on AWS (and have not <a target="_blank" href="https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-on-Amazon-Web-Service.md">enabled a virtual screen</a>), then please use <a target="_blank" href="https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Linux_NoVis.zip">this link</a> to obtain the "headless" version of the environment.  You will <strong>not</strong> be able to watch the agent without enabling a virtual screen, but you will be able to train the agent.  (<em>To watch the agent, you should follow the instructions to <a target="_blank" href="https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-on-Amazon-Web-Service.md">enable a virtual screen</a>, and then download the environment for the <strong>Linux</strong> operating system above.</em>)</p>
-<h2 id="step-3-explore-the-environment">Step 3: Explore the Environment</h2>
 <hr>
-<p>After you have followed the instructions above, open <code>Tennis.ipynb</code> (located in the <code>p3_collab-compet/</code> folder in the DRLND GitHub repository) and follow the instructions to learn how to use the Python API to control the agent.</p>
-<p>Watch the (<em>silent</em>) video below to see what kind of output to expect from the notebook, if everything is working properly!  </p>
-</div></div><span></span></div></div></div><div><div class="index--container--2OwOl"><div class="index--atom--lmAIo layout--content--3Smmq"><div><div class="video-atom--video--1rflY" style="width: 100%;"><div class="wrapper--wrapper--2PKhg"><div class="youtube-player--youtube-player--1kyG7"><div class="youtube-player--embed-responsive-16x9--x203G youtube-player--_embed-responsive--wS2qC"><span class=""><iframe class="embed-responsive-item" frameborder="0" allowfullscreen="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" title="YouTube video player" width="640" height="360" src="https://www.youtube.com/embed/kxDvrkg8ep0?showinfo=0&amp;rel=0&amp;autohide=1&amp;vq=hd720&amp;hl=en-us&amp;cc_load_policy=0&amp;enablejsapi=1&amp;origin=https%3A%2F%2Fclassroom.udacity.com&amp;widgetid=1"></iframe></span></div></div></div></div></div><span></span></div></div></div><div><div class="index--container--2OwOl"><div class="index--atom--lmAIo layout--content--3Smmq"><div class="ltr"><div class="index-module--markdown--2MdcR ureact-markdown "><p>In the last code cell of the notebook, you'll learn how to design and observe an agent that always selects random actions at each timestep.  Your goal in this project is to create an agent that performs much better!</p>
-<h2 id="-optional-build-your-own-environment">(Optional) Build your Own Environment</h2>
-<hr>
-<p>For this project, we have built the Unity environment for you, and you must use the environment files that we have provided.  </p>
-<p>If you are interested in learning to build your own Unity environments <strong>after completing the project</strong>, you are encouraged to follow the instructions <a target="_blank" href="https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Getting-Started-with-Balance-Ball.md">here</a>, which walk you through all of the details of building an environment from a Unity scene.  </p>
+ </p>
+  
+ <p>Finally, use the <code>Requirement.txt</code> file to install all the library that the project needed.  </p>
+  
 </div></div><span></span></div></div></div></div>
+
+
+##Report
+
+<p>After you have followed the instructions above, open <code>Tennis.ipynb</code> (located in the <code>p3_collab-compet/</code> folder in the DRLND GitHub repository) and follow the instructions to learn how to use the Python API to control the agent.</p>
+<p>Watch the (<em>silent</em>) video below to see what kind of output to expect from the notebook, if everything is working properly! 
