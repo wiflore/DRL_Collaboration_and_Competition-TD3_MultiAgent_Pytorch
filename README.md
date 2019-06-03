@@ -48,7 +48,8 @@
 </div></div><span></span></div></div></div></div>
 
 
-##Report
+<h1 id="the-report">Report and Training</h1>
 
-<p>After you have followed the instructions above, open <code>Tennis.ipynb</code> (located in the <code>p3_collab-compet/</code> folder in the DRLND GitHub repository) and follow the instructions to learn how to use the Python API to control the agent.</p>
-<p>Watch the (<em>silent</em>) video below to see what kind of output to expect from the notebook, if everything is working properly! 
+<p>After you have followed the instructions above, open and run the <code>Tennis.ipynb</code> or just open <code>report.ipynb</code> to see my results. Enjoy it!</p>
+  
+  
