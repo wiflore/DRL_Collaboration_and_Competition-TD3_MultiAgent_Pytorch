@@ -1,4 +1,4 @@
-# DRL_Collaboration-and-Competition
+# DRL_Collaboration-and-Competition.
 
 
 <div class="_main--content-container--ILkoI"><div><div class="index--container--2OwOl"><div class="index--atom--lmAIo layout--content--3Smmq"><div class="ltr"><div class="index-module--markdown--2MdcR ureact-markdown "><h1 id="the-environment">The Environment</h1>
