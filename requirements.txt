@@ -163,7 +163,7 @@ PyWavelets==0.5.2
 PyYAML==3.12
 pyzmq==17.1.2
 qtconsole==4.5.1
-requests==2.18.4
+requests==2.20.0
 requests-oauthlib==0.8.0
 requests-toolbelt==0.9.1
 resampy==0.2.0
