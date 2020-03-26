@@ -147,7 +147,7 @@ PyJWT==1.5.3
 pymavlink==2.2.20
 pymc3==3.2
 PyOpenGL==3.1.0
-pyOpenSSL==17.4.0
+pyOpenSSL==17.5.0
 pyparsing==2.2.0
 pyrsistent==0.15.2
 PySocks==1.6.8
